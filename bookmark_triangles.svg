@@ -1,0 +1,6 @@
+<!DOCTYPE svg>
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <polygon id="bookmark-1" points="0,0 50,0 0,200"/>
+  <polygon id="bookmark-2" points="25,25 75,25 0,200"/>
+  <polygon id="bookmark-3" points="42,50 95,50 0,200"/>
+</svg>
