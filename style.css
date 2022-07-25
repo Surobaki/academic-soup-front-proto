@@ -71,29 +71,13 @@ body {
 }
 
 #bookmark-1 {
-    fill: var(--secondary);
-    stroke: var(--secondary);
-    color: var(--secondary);
-    stroke-width: 1px;
+    color: var(--dark-2-bg);
 }
 
 #bookmark-2 {
-    fill: var(--tertiary);
-    stroke: var(--secondary);
     color: var(--secondary);
-    stroke-width: 1px;
 }
 
 #bookmark-3 {
-    fill: var(--dark-2-bg);
-    stroke: var(--secondary);
-    color: var(--secondary);
-    stroke-width: 1px;
-}
-
-.triangle {
-    fill: var(--dark-2-bg);
-    stroke: var(--secondary);
-    color: var(--secondary);
-    stroke-width: 1px;
+    color: var(--tertiary);
 }
