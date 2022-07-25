@@ -71,13 +71,13 @@ body {
 }
 
 #bookmark-1 {
-    color: var(--dark-2-bg);
+    color: var(--light-1-bg);
 }
 
 #bookmark-2 {
-    color: var(--secondary);
+    color: var(--dark-1-bg);
 }
 
 #bookmark-3 {
-    color: var(--tertiary);
+    color: var(--dark-2-bg);
 }
